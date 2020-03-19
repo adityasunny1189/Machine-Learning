@@ -7,7 +7,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
   classifier.classify(img, gotResult);
   image(img, 0, 0);
 }
