@@ -7,4 +7,6 @@ DAY 1: Learned about what is machine learning
        Diffrence between machine learning, Deep learning, AI and Data Science.
        Learned about a tool named google trainable Machine and ml-playground
        Learned how to interface Trainable Machine image classification with tensorflow.js
+       
+       At the end of day 1 learned about the diffrence between AI ML and DL. Also knew the diffrence between ML and Data Science, Learned various types of Machine Learning Models like supervised , unsupervised , reinforcement . Also learned about tensorflow.js ml5.js and p5.js the machine learning tools in js. also came to know about google colab and google trainable machine tool and at the end of the day made a image classifier using ml5.js API.
 #######################################
